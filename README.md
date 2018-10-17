@@ -7,9 +7,7 @@
 4. 对爬取的数据进行数据清洗、分析、可视化操作
 ## 安装：
 ```
-pip install scrapy
-pip install scrapy-redis
-pip install scrapy-redis-bloomfilter 
+requirements.txt 
 ```
 ## 用法：
 ```
