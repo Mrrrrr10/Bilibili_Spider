@@ -8,6 +8,7 @@
 ## 安装：
 ```
 pip install scrapy
+pip install scrapy-redis
 pip install scrapy-redis-bloomfilter 
 ```
 ## 用法：
